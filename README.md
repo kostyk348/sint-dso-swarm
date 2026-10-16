@@ -1,5 +1,9 @@
 # sint-dso-swarm
 
+[![Release](https://img.shields.io/github/v/release/kostyk348/sint-dso-swarm?sort=semver&color=blue)](https://github.com/kostyk348/sint-dso-swarm/releases)
+[![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/sint-dso-swarm/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/sint-dso-swarm?branch=main)](https://github.com/kostyk348/sint-dso-swarm/commits/main)
+
 **DSO Swarm Orchestrator** — DAG-based deterministic agent coordination layer. Routes tasks through a directed acyclic graph of DSO deterministic agents and decides when to escalate to LLM agents.
 
 ## DAG Flow
